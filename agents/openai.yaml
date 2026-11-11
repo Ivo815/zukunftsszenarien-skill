@@ -1,0 +1,15 @@
+interface:
+  display_name: Zukunftsszenarien
+  short_description: Kreative Szenarien entwickeln und Plausibilität prüfen
+  default_prompt: Nutze $zukunftsszenarien, um mit mir wissenschaftlich fundierte
+    Zukunftsszenarien zu entwickeln, Predetermined Elements zu berücksichtigen und
+    ihre Plausibilität konstruktiv zu prüfen.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
