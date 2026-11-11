@@ -1,0 +1,86 @@
+{
+  "package_version": "1.0",
+  "date": "2026-11-01",
+  "files": [
+    {
+      "path": "zukunftsszenarien/SKILL.md",
+      "bytes": 16612,
+      "sha256": "72a7614cb7150b8dfd20d9567c97dea5026345b3b9205b974e7b9ee5874e302d"
+    },
+    {
+      "path": "zukunftsszenarien/agents/openai.yaml",
+      "bytes": 491,
+      "sha256": "4366b060078d7a8bac1986ad3d7d6a239e81cd2e31bf1b545abc84af925aabc6"
+    },
+    {
+      "path": "zukunftsszenarien/assets/icon.svg",
+      "bytes": 420,
+      "sha256": "e9301497fa98ef56aaca7ede0857b9a18dc06c34040f0679c609a6bf49b1d38b"
+    },
+    {
+      "path": "zukunftsszenarien/references/arbeitsvorlagen.md",
+      "bytes": 3756,
+      "sha256": "54c547d05a2da63188962e2f8aafdb4772960132ef5c93549f84b82c16f1410d"
+    },
+    {
+      "path": "zukunftsszenarien/references/bildungstestfall-quellen.md",
+      "bytes": 4563,
+      "sha256": "4e8b1cae68ee3d0a6e1bb79b6ab257a59ad408afe75a67fabe1a627aa997225b"
+    },
+    {
+      "path": "zukunftsszenarien/references/grundlagen-und-quellen.md",
+      "bytes": 6800,
+      "sha256": "f01a1da84a35764c438083d247bd8c767a9b66400a210f1c4a2df78ebc58b6fa"
+    },
+    {
+      "path": "zukunftsszenarien/references/methoden.md",
+      "bytes": 10499,
+      "sha256": "e5c2d01c778712e07a1240b3b26e6bb19711d293f5dbac457bfed8aa7a675be6"
+    },
+    {
+      "path": "zukunftsszenarien/references/prueftiefe-und-erprobung.md",
+      "bytes": 3247,
+      "sha256": "c01d3b3d1f6f3571492e9e9f8e8e0dbf8f8f508ef068ca2b5ca4f46d68ddc72b"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/bildungsbericht-schweiz-2026.pdf",
+      "bytes": 11472376,
+      "sha256": "c51b24879f1a98783d5dd21ea2d1e1362987dfd257048637c5d80d3d7a0dd49f"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/bildungsbericht-zukunftstest-2026.pdf",
+      "bytes": 68423,
+      "sha256": "23569ce19b9a407b0987db0928e7b59e9a483a1e7135d4a301d75e6d049de29b"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/bildungsentwurf-antworten.pdf",
+      "bytes": 124669,
+      "sha256": "fadf63083c496772f8727aaca156a6017133f414cce517e822eef54216781086"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/gdi-major-shifts-2025.pdf",
+      "bytes": 5036098,
+      "sha256": "e14863686c4dcdcb8f7a5a7460f12be6bf7f98190d7f53a2ec94782248058dad"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/grundlagenregister-schule-ch-2035.md",
+      "bytes": 118200,
+      "sha256": "dacf6f14a17199f2f37277ce477690ad0c2760ba258dbc022dbcf36b24e23b2f"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/predetermined-elements-ivo-veith-2026.pdf",
+      "bytes": 71593,
+      "sha256": "43df69f11cab5535d312f3c46daa2771763c1590bdeb787464b150fe57aaa0c8"
+    },
+    {
+      "path": "zukunftsszenarien/references/quellen/thesen-ki-und-bildung.md",
+      "bytes": 10928,
+      "sha256": "e5a140db530ea8ffcf32e0bd05c28d6ffac35763b5d0c179f68d428497486946"
+    },
+    {
+      "path": "zukunftsszenarien/scripts/trend_diagnostics.py",
+      "bytes": 5027,
+      "sha256": "61f7338cda709caad15a130780898758a9b151d85ba4fc897a1b34d16a190c2a"
+    }
+  ]
+}
